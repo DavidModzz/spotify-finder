@@ -1,6 +1,6 @@
 {
   "name": "@nechlophomeriaa/spotify-finder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A isomorphic Spotify API client",
   "main": "lib/client.js",
   "scripts": {
